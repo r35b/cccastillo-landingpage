@@ -1,3 +1,6 @@
 # Cici Castillo | Fresno, Ca
 ## First Draft
-We could just start typing text here.
+<p>We could just start typing text here.</p>
+
+### February 17th, 2016
+<p>Our entire class finally did a push to Github. :-)</p>
