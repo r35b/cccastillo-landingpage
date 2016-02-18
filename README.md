@@ -6,3 +6,4 @@
 <p>Our entire class finally did a push to Github. :-)</p>
 
 ## February 18th Clock-in
+<p>This is the answer to the daily clock-in</p>
